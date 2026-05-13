@@ -125,6 +125,14 @@ Permite evidenciar que se eliminó el contenido de ejemplo de Vite y se dejó un
 
 ---
 
+### 3.3 Componente Profile agregado
+
+Permite evidenciar que se creó y utilizó el componente `Profile`, separando la información del perfil del autor en un componente reutilizable dentro de la aplicación.
+
+![Componente Profile](docs/profile.png)
+
+---
+
 ## ⚙️ Instalación y ejecución
 
 ### 1. Clonar el repositorio

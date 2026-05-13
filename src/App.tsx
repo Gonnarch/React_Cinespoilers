@@ -1,8 +1,8 @@
+import Profile from "./Profile";
 function App() {
   return (
     <main>
-      <h1>Carlos Carbajal</h1>
-
+      <Profile />
     </main>
   );
 }
