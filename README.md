@@ -2,7 +2,7 @@
 
 **CineSpoilerS** es una aplicación web desarrollada con **React**, **TypeScript** y **Vite**.
 
-Este proyecto representa la primera etapa de una aplicación e-commerce básica relacionada con productos de cine. En esta fase inicial se configuró el entorno de desarrollo, se creó el proyecto base y se realizó una limpieza inicial de la plantilla generada por Vite para dejar una estructura más clara y preparada para futuras funcionalidades.
+Este proyecto representa la primera etapa de una aplicación e-commerce básica relacionada con productos de cine. En esta fase inicial se configuró el entorno de desarrollo, se creó el proyecto base y se realizaron cambios iniciales en la interfaz para dejar una base limpia, personalizada y preparada para futuras funcionalidades.
 
 ---
 
@@ -15,6 +15,7 @@ Este proyecto representa la primera etapa de una aplicación e-commerce básica 
 - [Evidencias del proyecto](#-evidencias-del-proyecto)
 - [Instalación y ejecución](#-instalación-y-ejecución)
 - [Estado actual](#-estado-actual)
+- [Próximas etapas](#-próximas-etapas)
 - [Autor](#-autor)
 
 ---
@@ -25,7 +26,7 @@ Este proyecto representa la primera etapa de una aplicación e-commerce básica 
 
 El propósito del proyecto es construir una base frontend moderna, ordenada y escalable utilizando **React con TypeScript**. Aunque actualmente el proyecto se encuentra en una etapa inicial, la estructura permitirá agregar progresivamente componentes, estilos globales, catálogo de productos, carrito de compras y una futura integración con pasarela de pagos.
 
-En esta primera entrega se trabajó principalmente en la creación del proyecto, la verificación del entorno y la limpieza inicial de la interfaz.
+En esta primera entrega se trabajó principalmente en la creación del proyecto, la verificación del entorno, la limpieza inicial de la interfaz y una personalización básica de la pantalla principal.
 
 ---
 
@@ -63,6 +64,7 @@ Durante esta primera etapa se realizaron las siguientes actividades:
 - Se comprobó que React funciona correctamente en el navegador.
 - Se eliminó el contenido inicial de ejemplo generado por Vite.
 - Se personalizó la pantalla inicial con el nombre del proyecto **CineSpoilerS**.
+- Se agregó el nombre del autor en la pantalla principal.
 - Se organizó una carpeta `docs` para guardar las evidencias del avance.
 
 ---
@@ -71,7 +73,7 @@ Durante esta primera etapa se realizaron las siguientes actividades:
 
 En esta sección se muestran las evidencias principales de la primera etapa del proyecto **CineSpoilerS**.
 
-El orden presentado es: verificación del entorno, creación del proyecto React y limpieza inicial de la aplicación.
+El orden presentado es: verificación del entorno, creación del proyecto React, personalización inicial y limpieza de la aplicación.
 
 ---
 
@@ -105,11 +107,19 @@ Permite evidenciar que el proyecto **CineSpoilerS** fue creado correctamente con
 
 ---
 
-## 3. Evidencia de limpieza inicial del proyecto
+## 3. Evidencias de la interfaz inicial
 
-### 3.1 Pantalla inicial limpia de CineSpoilerS
+### 3.1 Pantalla inicial personalizada
 
-Permite evidenciar que se eliminó el contenido de ejemplo de Vite y se dejó una pantalla inicial personalizada con el nombre del proyecto **CineSpoilerS**.
+Permite evidenciar que la pantalla principal fue modificada para mostrar el nombre del proyecto **CineSpoilerS** y el nombre del autor.
+
+![Pantalla inicial personalizada](docs/inicio_cambiado.png)
+
+---
+
+### 3.2 Pantalla inicial limpia de CineSpoilerS
+
+Permite evidenciar que se eliminó el contenido de ejemplo de Vite y se dejó una pantalla inicial personalizada para el proyecto **CineSpoilerS**.
 
 ![Inicio limpio de CineSpoilerS](docs/inicio_limpio.png)
 
