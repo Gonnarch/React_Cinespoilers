@@ -133,6 +133,15 @@ Permite evidenciar que se creó y utilizó el componente `Profile`, separando la
 
 ---
 
+### 3.4 Componente Profile reutilizable con props
+
+Permite evidenciar que el componente `Profile` fue mejorado para recibir información mediante props.  
+De esta manera, el mismo componente puede mostrar diferentes perfiles sin duplicar estructura de código.
+
+![Componente Profile con props](docs/final.png)
+
+---
+
 ## ⚙️ Instalación y ejecución
 
 ### 1. Clonar el repositorio
